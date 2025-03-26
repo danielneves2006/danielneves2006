@@ -4,7 +4,7 @@
 
 📫 Email: animael2006@gmail.com 
 
-📍 Brasil - MT
+📍 Brazil - MT
 
 ### 🦉About Me🦉
 * Computer Technician
