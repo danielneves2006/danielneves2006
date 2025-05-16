@@ -10,8 +10,8 @@
 * Computer Technician
 * Studying Digital Games at ECDD
 * 2 Games Released
-* Java, Phyton(Pandas), Kotlin, C#
-* Web Design (HTML, CSS, JS)
+* Typescript, Kotlin, C#
+* Web Design (Ttpescript, React, Next.js)
 * Advanced English
 
 ### Connect with me:
